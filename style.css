@@ -1,0 +1,26 @@
+
+
+.calc{
+    width: 400px;
+    height: 600px;
+    background: #808080;
+    margin-left: 500px;
+  
+}
+
+#textfield{
+    margin: 15px;
+    width: 90%;
+    height: 10vh;
+    font-size: 25px;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 32px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 700;
+}
